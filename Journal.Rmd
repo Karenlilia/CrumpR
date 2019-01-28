@@ -36,7 +36,7 @@ Do simple math with numbers, addition, subtraction, multiplication, division.
 
 Put numbers into variables, do simple math on the variables.
 
-```{r}
+```{r,eval=FALSE}
 a <-56
 b <- 19
 c <- 99
