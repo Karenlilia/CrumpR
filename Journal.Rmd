@@ -19,6 +19,32 @@ IMPORTANT: You can delete everything in here and start fresh. You might want to 
 
 This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
 
+# Problem 1
+
+Do simple math with numbers, addition, subtraction, multiplication, division.
+
+```{r}
+5*89
+4+6
+3*9
+9-8
+6/32
+
+```
+
+# Problem 2
+
+Put numbers into variables, do simple math on the variables.
+
+```{r}
+a <-56
+b <- 19
+c <- 99
+a+b
+a/c
+
+```
+
 # My first post
 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
